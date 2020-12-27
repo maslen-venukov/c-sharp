@@ -1,0 +1,12 @@
+C:\source\repos\winForms\winForms\winForms\bin\Debug\winForms.exe.config
+C:\source\repos\winForms\winForms\winForms\bin\Debug\winForms.exe
+C:\source\repos\winForms\winForms\winForms\bin\Debug\winForms.pdb
+C:\source\repos\winForms\winForms\winForms\obj\Debug\winForms.csprojAssemblyReference.cache
+C:\source\repos\winForms\winForms\winForms\obj\Debug\winForms.Form1.resources
+C:\source\repos\winForms\winForms\winForms\obj\Debug\winForms.Properties.Resources.resources
+C:\source\repos\winForms\winForms\winForms\obj\Debug\winForms.csproj.GenerateResource.cache
+C:\source\repos\winForms\winForms\winForms\obj\Debug\winForms.csproj.CoreCompileInputs.cache
+C:\source\repos\winForms\winForms\winForms\obj\Debug\winForms.exe
+C:\source\repos\winForms\winForms\winForms\obj\Debug\winForms.pdb
+C:\source\repos\winForms\winForms\winForms\obj\Debug\winForms.csproj.ResolveComReference.cache
+C:\source\repos\winForms\winForms\winForms\obj\Debug\winForms.authForm.resources
